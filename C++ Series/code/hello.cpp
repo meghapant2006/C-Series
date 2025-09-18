@@ -8,9 +8,5 @@ int main() {
     return 0;
 }
 
-// int main() {
-//   cout << 3 + 3 <<"\n";
-//   cout << 2 * 5 <<"\n";
-//   return 0;
-// }
+
 

@@ -23,6 +23,5 @@ int main()
 
     bool myBoolean = true;
     cout << myBoolean << "\n";
-
     return 0;
 }
