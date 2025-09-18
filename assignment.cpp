@@ -9,7 +9,9 @@ int main(){
 
     if(teabags<10){
         // teabags= teabags +5;
-        teabags +=5;
+        teabags +=5; 
     }
+    cout <<"total teabags: " << teabags << endl;
+    return 0;
 
 }
