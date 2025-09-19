@@ -10,5 +10,7 @@ int main()
     cout << "Number of items: " << items << "\n";
     cout << "Cost per item: " << cost_per_item << currency << "\n";
     cout << "Total cost = " << total_cost << currency << "\n";
+
+   
     return 0;
 }
